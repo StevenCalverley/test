@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
-import Mistify from "tameablemist";
+import Mistify from "mistify";
 
 import "./assets/css/tailwind.css";
 

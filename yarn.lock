@@ -6848,6 +6848,14 @@ mississippi@^3.0.0:
     stream-each "^1.1.0"
     through2 "^2.0.0"
 
+mistify@^0.0.1-alpha.1:
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/mistify/-/mistify-0.0.1-alpha.1.tgz#c788f70b59e56286d91fa2cc704b2932d58654ac"
+  integrity sha512-7Qlts3rL86HQKwnhu8CqyDLN1DImKGuXj6r9yC/TL3udqqnoDkCi4CwNbLOAGUtAp0aWhnHut1mLEXP5QxrcQQ==
+  dependencies:
+    core-js "^3.8.1"
+    vue "^2.6.11"
+
 mixin-deep@^1.2.0:
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.2.tgz#1120b43dc359a785dce65b55b82e257ccf479566"
@@ -9388,14 +9396,6 @@ table@^5.2.3:
     lodash "^4.17.14"
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
-
-tameablemist@^0.0.1-alpha.2:
-  version "0.0.1-alpha.2"
-  resolved "https://registry.yarnpkg.com/tameablemist/-/tameablemist-0.0.1-alpha.2.tgz#7f124f47f48bf67a62ab83833f771cb0c10cd438"
-  integrity sha512-TtoLsGQm6JAZxiNGgnssjTVwmhB67BwfZGPGmHrpV094B4jQgFxDRHdwYcNllRJ7dFAq+XhtdLvEKZqguqF2wg==
-  dependencies:
-    core-js "^3.8.1"
-    vue "^2.6.11"
 
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
